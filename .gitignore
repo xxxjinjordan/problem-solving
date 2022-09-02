@@ -1,1 +1,2 @@
-.gitignore
+BOJ/src/*/
+BOJ/src/*.iml
