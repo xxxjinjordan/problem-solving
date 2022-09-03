@@ -1,5 +1,4 @@
 BOJ/src/*/
-<<<<<<< HEAD
 BOJ/src/*.iml
 .metadata/
 .recommenders/
@@ -8,6 +7,3 @@ BOJ/.settings/
 BOJ/bin
 BOJ/.classpath
 BOJ/.project
-=======
-BOJ/src/*.iml
->>>>>>> 914e89f9776e7a5c941c402113d986cc14457169
